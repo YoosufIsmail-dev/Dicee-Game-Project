@@ -1,8 +1,6 @@
 # 🎲 Dicee Game
 <img width="1920" height="969" alt="Screenshot 2026-06-12 164844" src="https://github.com/user-attachments/assets/e61fcb31-24e3-4920-8932-45731710b349" />
 
-https://dicee-gam.netlify.app/
-
 A simple and interactive dice game built using HTML, CSS, and JavaScript. Refresh the page to roll the dice and generate random results for two players. The player with the higher dice value wins, making it a fun project for learning DOM manipulation and random number generation in JavaScript.
 
 ## ✨ Features
